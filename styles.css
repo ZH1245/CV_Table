@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
+.table1{
+   position: relative;
+   align-content: center;
+   border-style: dashed;
+}
+.name{
+    width: calc(100%-200px);
+}
+.pic{
+    text-align: right;
+}
+body{
+    background-color: blanchedalmond;
+}
+.img{
+    position: relative;
+}
+.text{
+    /* display:flex; */
+    align-items: center;
+    /* padding-bottom: 3 0; */
+    padding: 3px 10px;
+}
+body{
+    font-family: "Ubuntu", sans-serif;
+}
+.contact_head {
+    font-size: 20px;
+    padding-left: 5px
+}
+.education_head{
+    padding-top: 5px;
+    font-size: 20px;
+    padding-left: 5px
+}
+
+/* .icon .text{
+    width: 100px;
+    height: 100px;
+    border: solid 1px #ccc;
+    display: inline-block;
+} */
+.education_head .email{
+    display: flex;
+    padding-left: 5px
+}
+.icon{
+    padding: 3px  10px;
+}
+.email{
+    display: flex;
+}
+.phone{
+    display: flex;
+}
+.address{
+    display: flex;
+}
+.inter{
+    display: flex;
+}
+.school{
+    display: flex;
+}
+.university{
+        display: flex;    
+}
