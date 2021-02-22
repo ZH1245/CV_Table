@@ -2,7 +2,8 @@
 .table1{
    position: relative;
    align-content: center;
-   border-style: dashed;
+   border-style: none;
+   border-color: #3c3f48;
 }
 .name{
     width: calc(100%-200px);
@@ -10,8 +11,15 @@
 .pic{
     text-align: right;
 }
+table{
+    background-color:#383d43;
+}
 body{
-    background-color: blanchedalmond;
+    /* background-color: rgb(79, 25, 129); */
+    background-image: url('https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:white
 }
 .img{
     position: relative;
