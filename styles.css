@@ -57,21 +57,26 @@ body {
 .icon {
   padding: 3px 10px;
 }
+/* .email {
+  display: flex;
+} */
+/* .phone {
+  display: flex;
+} */
+/* .address {
+  display: flex;
+} */
+/* .inter {
+  display: flex;
+} */
+.school,
+.university,
+.inter,
+.address,
+.phone,
 .email {
   display: flex;
 }
-.phone {
+/* .university {
   display: flex;
-}
-.address {
-  display: flex;
-}
-.inter {
-  display: flex;
-}
-.school {
-  display: flex;
-}
-.university {
-  display: flex;
-}
+} */
