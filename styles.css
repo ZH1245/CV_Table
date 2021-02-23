@@ -1,46 +1,47 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
-.table1{
-   position: relative;
-   align-content: center;
-   border-style: none;
-   border-color: #3c3f48;
+.table1 {
+  position: relative;
+  align-content: center;
+  border-style: none;
+  border-color: #3c3f48;
 }
-.name{
-    width: calc(100%-200px);
+.name {
+  width: calc(100%-190px);
 }
-.pic{
-    text-align: right;
+.pic {
+  text-align: right;
 }
-table{
-    background-color:#383d43;
+table {
+  background-color: #383d43;
 }
-body{
-    /* background-color: rgb(79, 25, 129); */
-    background-image: url('https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    color:white
+body {
+  /* background-color: rgb(79, 25, 129); */
+  background-image: url("https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
 }
-.img{
-    position: relative;
+.my_pic {
+  position: relative;
+  width: 190px;
 }
-.text{
-    /* display:flex; */
-    align-items: center;
-    /* padding-bottom: 3 0; */
-    padding: 3px 10px;
+.text {
+  /* display:flex; */
+  align-items: center;
+  /* padding-bottom: 3 0; */
+  padding: 3px 10px;
 }
-body{
-    font-family: "Ubuntu", sans-serif;
+body {
+  font-family: "Ubuntu", sans-serif;
 }
 .contact_head {
-    font-size: 20px;
-    padding-left: 5px
+  font-size: 20px;
+  padding-left: 5px;
 }
-.education_head{
-    padding-top: 5px;
-    font-size: 20px;
-    padding-left: 5px;
+.education_head {
+  padding-top: 5px;
+  font-size: 20px;
+  padding-left: 5px;
 }
 
 /* .icon .text{
@@ -49,28 +50,28 @@ body{
     border: solid 1px #ccc;
     display: inline-block;
 } */
-.education_head .email{
-    display: flex;
-    padding-left: 5px
+.education_head .email {
+  display: flex;
+  padding-left: 5px;
 }
-.icon{
-    padding: 3px  10px;
+.icon {
+  padding: 3px 10px;
 }
-.email{
-    display: flex;
+.email {
+  display: flex;
 }
-.phone{
-    display: flex;
+.phone {
+  display: flex;
 }
-.address{
-    display: flex;
+.address {
+  display: flex;
 }
-.inter{
-    display: flex;
+.inter {
+  display: flex;
 }
-.school{
-    display: flex;
+.school {
+  display: flex;
 }
-.university{
-        display: flex;    
+.university {
+  display: flex;
 }
