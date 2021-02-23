@@ -50,7 +50,35 @@ body {
 }
 
 .icon {
-  padding: 3px 10px;
+  /* padding: 3px 10px; */
+  /* object-fit: contain; */
+  /* border-radius: 7px; */
+  /* width: 22px; */
+  /* padding-left: 8px; */
+  /* align-self: center; */
+  /* height: 29px; */
+  /* justify-content: center; */
+  /* color: rgb(146, 0, 146); */
+  /* background-color: white; */
+}
+.education_head:after {
+  content: "";
+  padding-bottom: 10px;
+}
+.email,
+.phone,
+.address,
+.inter,
+.school,
+.university {
+  border-radius: 10px;
+  padding-left: 8px;
+  align-self: center;
+  height: 28px;
+  width: fit-content;
+  /* justify-content: center; */
+  color: rgb(146, 0, 146);
+  background-color: white;
 }
 .school,
 .university,
