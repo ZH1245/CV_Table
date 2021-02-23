@@ -36,20 +36,33 @@ body {
 }
 .contact_head {
   font-size: 20px;
-  padding-left: 5px;
 }
 .education_head {
   padding-top: 5px;
   font-size: 20px;
   padding-left: 5px;
 }
-.education_head {
-  display: flex;
+
+.education_head,
+.contact_head {
   padding-left: 5px;
 }
+
 .icon {
   padding: 3px 10px;
 }
+.school,
+.university,
+.inter,
+.address,
+.phone,
+.email,
+.education_head {
+  display: flex;
+}
+/* .university {
+  display: flex;
+} */
 /* .email {
   display: flex;
 } */
@@ -60,16 +73,5 @@ body {
   display: flex;
 } */
 /* .inter {
-  display: flex;
-} */
-.school,
-.university,
-.inter,
-.address,
-.phone,
-.email {
-  display: flex;
-}
-/* .university {
   display: flex;
 } */
