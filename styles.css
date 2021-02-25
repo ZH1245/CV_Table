@@ -79,6 +79,7 @@ body {
   /* justify-content: center; */
   color: rgb(146, 0, 146);
   background-color: white;
+  margin-bottom: 5px;
 }
 .school,
 .university,
