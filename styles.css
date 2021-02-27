@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap");
 .table1 {
   position: relative;
   align-content: center;
@@ -8,6 +10,8 @@
 .name {
   width: calc(100%-190px);
   padding-left: 10px;
+  font-family: "Akaya Kanadaka", cursive;
+  font-size: 22px;
 }
 .pic {
   text-align: right;
@@ -16,6 +20,7 @@ table {
   background-color: #4c555f;
 }
 body {
+  letter-spacing: 1.5px;
   /* background-color: rgb(79, 25, 129); */
   background-image: url("https://www.wallpapertip.com/wmimgs/66-666819_website-design-background-creative-background-image-for-website.jpg");
   background-repeat: no-repeat;
@@ -47,20 +52,21 @@ body {
 .education_head,
 .contact_head {
   padding-left: 5px;
+  padding-bottom: 5px;
 }
 
 /* .icon {
   /* padding: 3px 10px; */
-  /* object-fit: contain; */
-  /* border-radius: 7px; */
-  /* width: 22px; */
-  /* padding-left: 8px; */
-  /* align-self: center; */
-  /* height: 29px; */
-  /* justify-content: center; */
-  /* color: rgb(146, 0, 146); */
-  /* background-color: white; */
-} */
+/* object-fit: contain; */
+/* border-radius: 7px; */
+/* width: 22px; */
+/* padding-left: 8px; */
+/* align-self: center; */
+/* height: 29px; */
+/* justify-content: center; */
+/* color: rgb(146, 0, 146); */
+/* background-color: white; */
+/* } */
 .education_head:after {
   content: "";
   padding-bottom: 10px;
